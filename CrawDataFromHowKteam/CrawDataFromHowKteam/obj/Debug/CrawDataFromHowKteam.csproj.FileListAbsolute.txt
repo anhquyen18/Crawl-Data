@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\bin\Debug\CrawDataFromHowKteam.exe.config
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\bin\Debug\CrawDataFromHowKteam.exe
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\bin\Debug\CrawDataFromHowKteam.pdb
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam_MarkupCompile.cache
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam_MarkupCompile.lref
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.g.resources
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.Properties.Resources.resources
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.exe
+C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.pdb
