@@ -17,7 +17,7 @@
         </Grid.ColumnDefinitions>
         
         <Grid Grid.Column="0" Grid.Row="0">
-            <Button>Load Data</Button>
+            <Button Click="Button_Click_1">Load Data</Button>
         </Grid>
         <Grid Grid.Column="1" Grid.Row="0">
             <Button Click="Button_Click">Add item into tree view</Button>

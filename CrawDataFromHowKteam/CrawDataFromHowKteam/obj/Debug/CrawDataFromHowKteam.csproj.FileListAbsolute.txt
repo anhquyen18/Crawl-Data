@@ -13,3 +13,18 @@ C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam
 C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.exe
 C:\Users\User\Desktop\Quyen-Revit co ban\Crawl Data (KTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.pdb
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\bin\Debug\CrawDataFromHowKteam.exe.config
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\bin\Debug\CrawDataFromHowKteam.exe
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\bin\Debug\CrawDataFromHowKteam.pdb
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csproj.AssemblyReference.cache
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\MainWindow.g.cs
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\App.g.cs
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam_MarkupCompile.cache
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam_MarkupCompile.lref
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\MainWindow.baml
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.g.resources
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.Properties.Resources.resources
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csproj.GenerateResource.cache
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.csproj.CoreCompileInputs.cache
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.exe
+F:\Programming\Crawl-Data (C# HowKTeam)\CrawDataFromHowKteam\CrawDataFromHowKteam\obj\Debug\CrawDataFromHowKteam.pdb
