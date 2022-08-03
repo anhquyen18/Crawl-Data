@@ -111,13 +111,16 @@ namespace CrawDataFromHowKteam
 
         void Crawl(string url)
         {
+            //< h4(.*?) </ h4 >
+
             string htmlLearn = CrawlDataFromURL(url);
 
-            string courseListKey = "<div class=\"col-md-6 col-lg-4 col-xl-3\">(.*?)</div>";
+            string courseListKey = "<div class=\"col-md-6 col-lg-4 col-xl-3\">(.*?)<div class=\"text-warning font-size-sm\">";
             var CourseList = Regex.Matches(htmlLearn, courseListKey, RegexOptions.Singleline);
             foreach (var course in CourseList)
             {
-                //string courseName = Regex.Match(course.ToString)
+                string courseName = Regex.Match(course.ToString(), "(?=title).*?(?=\">)").Value.Replace("title=\"", "");
+                string name = "0";
             }
         }
         #endregion
